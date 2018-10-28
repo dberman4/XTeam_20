@@ -1,4 +1,4 @@
-# X-Team 20 Project Proposal
+# X-Team 20 Project Proposal: Grade Helper
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -39,7 +39,7 @@ Our program will use a hashtable with linked lists as the buckets to store the s
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Grade Helper
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
