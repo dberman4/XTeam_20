@@ -16,8 +16,8 @@ Group leader will assign tasks, and if a team member is unable to complete a tas
 We will use a text file on GitHub as a "to-do" list and check off tasks as they are completed with the the date and time they are completed at
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will will (we?) communicate difficulties with a task assigned to us
+Message eachother in the group-chat and be specific. Meeting before deadlines so that we can help eachother in person. 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
