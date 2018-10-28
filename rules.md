@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+Group leader will assign tasks, and if a team member is unable to complete a task, it will be reassigned 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
