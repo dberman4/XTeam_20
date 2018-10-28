@@ -86,6 +86,7 @@ Teacher: can input new student, students' individual grades on assignments, new 
 > Enter new Student's email:
 
 ##### Case Teacher Enters ea:
+> ```
 > Current Assignments:
 > (Assignment One)
 > (Assingment Two)
@@ -96,6 +97,7 @@ Teacher: can input new student, students' individual grades on assignments, new 
 > Enter new (assignment name) (assignment weight) to add new assignment
 > Enter update (student id) (assignment name) (grade) to edit the assignment grade
 > Enter average (assignment name) to display the assignment average grade
+> ```
 
 ##### Case Teacher Enters vg:
 > Final Grades:
