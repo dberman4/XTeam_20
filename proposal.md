@@ -136,6 +136,11 @@ Teachers will be given the option to add a new student, view a student's informa
 
 #### 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+* *Main.java* run the program, call the user interface. Main class includes a scanner to read input from the user.
+* *UserInterface.java* interact with the user, including determine if the user is a teacher or a student. And list all the functions that the user have for them to access. 
+* *HashTableADT.java* hash table ADT including all the functions we think the data structure should have.
+* *HashTable.java* implement HashTableADT. Data structure that we store each students' informantion, using resizing and handling collision use linked list. 
+* *Assignment.java* include the node innner class and a list to store all the assignment for one student.
 
 
 #### Name each interface or class and briefly describe its function or purpose.
