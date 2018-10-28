@@ -93,7 +93,7 @@ Teacher: can input new student, students' individual grades on assignments, new 
 > Enter new Student's email:
 > ```
 
-##### Case Teacher Enters vs:
+###### Case Teacher Enters vs:
 > ```
 > Student Name: (Student lastName, Student firstName)
 > Student id: (student id)
@@ -107,7 +107,7 @@ Teacher: can input new student, students' individual grades on assignments, new 
 > Final Grade: (Final Grade)
 > ```
 
-##### Case Teacher Enters ea:
+###### Case Teacher Enters ea:
 > ```
 > Current Assignments:
 > (Assignment One)
@@ -121,7 +121,7 @@ Teacher: can input new student, students' individual grades on assignments, new 
 > Enter "average (assignment name)" to display the assignment average grade
 > ```
 
-##### Case Teacher Enters vg:
+###### Case Teacher Enters vg:
 > ```
 > Final Grades:
 > (Student One Name): (Final Grade)
