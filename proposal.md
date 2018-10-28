@@ -57,8 +57,52 @@ Teacher: can input new student, students' individual grades on assignments, new 
 
 #### 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+> Welcome to GradeHelper
+> Input User ID:
+>
 
+##### Case Student ID Entered:
+> Welcome (Student Name)
+>
+> (Assignment One) Grade: (Assignment One Grade)
+> (Assignment Two) Grade: (Assignment Two Grade)
+> ...
+> (Assignment n) Grade: (Assignment n Grade)
+>
+> Final Grade: (Final Grade)
 
+##### Case Teacher ID Entered:
+> Welcome (Teacher Name)
+>
+> Enter "ns" to add new student
+> Enter "ea" to edit assignments
+> Enter "vg" to view final grades
+
+###### Case Teacher Enters ns:
+> Enter new student's id:
+>
+> Enter new Student's name (lastName, firstName):
+>
+> Enter new Student's email:
+
+##### Case Teacher Enters ea:
+> Current Assignments:
+> (Assignment One)
+> (Assingment Two)
+> ...
+> (Assignment n)
+>
+> Enter r (assignment name) to remove assignment
+> Enter new (assignment name) (assignment weight) to add new assignment
+> Enter update (student id) (assignment name) (grade) to edit the assignment grade
+> Enter average (assignment name) to display the assignment average grade
+
+##### Case Teacher Enters vg:
+> Final Grades:
+> (Student One Name): (Final Grade)
+> (Student Two Name): (Final Grade)
+> ...
+> (Student n Name): (Final Grade)
 
 #### 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
