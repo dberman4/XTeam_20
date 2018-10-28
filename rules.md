@@ -21,10 +21,11 @@ Message eachother in the group-chat and be specific. Meeting before deadlines so
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-We communicate in time and check if everyone finish their tasks in time. If somebody get straggled in some points, we will meet in person and help them to finish.
+We communicate in time and check if everyone finishe their tasks in time. If somebody get strggled in some points, we will meet in person and help them to finish.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
+Make sure to communicate that you recieved messages in the groupchat
 
 
