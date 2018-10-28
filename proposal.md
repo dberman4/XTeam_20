@@ -135,6 +135,7 @@ Teachers will be given the option to add a new student, view a student's informa
 > ```
 
 #### 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+#### Name each interface or class and briefly describe its function or purpose.
 
 * *Main.java* run the program, call the user interface. Main class includes a scanner to read input from the user.
 * *UserInterface.java* interact with the user, including determine if the user is a teacher or a student. And list all the functions that the user have for them to access. 
@@ -143,7 +144,6 @@ Teachers will be given the option to add a new student, view a student's informa
 * *Assignment.java* include the node innner class and a list to store all the assignment for one student.
 
 
-#### Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
