@@ -13,7 +13,7 @@ Group leader will assign tasks, and if a team member is unable to complete a tas
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will use a text file on GitHub as a "to-do" list and check off tasks as they are completed with the the date and time they are completed at
 
 
 ## How will will communicate difficulties with a task assigned to us
