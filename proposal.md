@@ -32,7 +32,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
-We are solving the problem of difficulty calculating final grades. This program will allow teachers and students to track students grades, and recieve their final score. Teachers will be able to add assignments of different weight and give each student a score. This score will be used in the calculation of the final grade.
+We are solving the problem of difficulty calculating final grades. This program will allow teachers and students to track students grades and recieve their final score. Teachers will be able to add assignments of different weight and give each student a score. This score will be used in the calculation of the final grade.
 
 Our program will use a hashtable with linked lists as the buckets to store the students and their grades. Each node in the hash table will reference a student which will contain fields for their name, email, a reference to assignement nodes, and a reference to their final grade. 
 
