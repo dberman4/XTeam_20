@@ -39,15 +39,19 @@ Our program will use a hashtable with linked lists as the buckets to store the s
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
+
 Grade Helper
 
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+
 Our output will depend on what the user asks for. There will be different options for teachers and students, with different accesses. The output options will include: seeing student information for a single student (name, email, individual grades on assignments, total grade for the class), seeing total student averages for a single assignment, seeing total student averages for a semester.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+Student: none, all the input will be done by the teacher
+Teacher: 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
