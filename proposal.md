@@ -57,6 +57,10 @@ Teacher: can input new student, students' individual grades on assignments, new 
 
 #### 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+User will be prompted to enter their id which will determine if the user is a student or a teacher.
+Student users will have their grade information displayed.
+Teachers will be given the option to add a new student, view a student's information, to edit assignments, and to view final grades.
+
 > ```
 > Welcome to GradeHelper
 > Input User ID:
