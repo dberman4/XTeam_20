@@ -32,6 +32,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+We are solving the problem of difficulty calculating final grades. This program will allow teachers and students to track students grades, and recieve their final score. 
+
+Our program will use a hashtable with linked lists as the buckets to store the students and their grades. Each node in the hash table will reference a student which will contain fields for their name, email, a reference to assignement nodes, and a reference to their final grade. 
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
